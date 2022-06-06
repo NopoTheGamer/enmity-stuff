@@ -1,6 +1,6 @@
 {
-  "name": "Femboy",
-  "description": "Femboy indeed",
+  "name": "Pink",
+  "description": "Blue",
   "version": "1.0",
   "authors": [
     {
@@ -147,7 +147,7 @@
     "PRIMARY_DARK_700": "#090909",
     "PRIMARY_DARK_800": "#090909",
     "PRIMARY_DARK_900": "#090909"
-  }
+  },
   "unsafe_colors": {
     "CHAT_GREY": "#000000"
   }
